@@ -1,0 +1,17 @@
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.exe
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.deps.json
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.runtimeconfig.json
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.runtimeconfig.dev.json
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.dll
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\bin\Debug\netcoreapp3.1\AdwareScanner.pdb
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.csprojAssemblyReference.cache
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner_MarkupCompile.cache
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner_MarkupCompile.lref
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.g.resources
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.AssemblyInfoInputs.cache
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.AssemblyInfo.cs
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.dll
+C:\Users\kurtn\source\repos\AdwareScanner\AdwareScanner\obj\Debug\netcoreapp3.1\AdwareScanner.pdb
